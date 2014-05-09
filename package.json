@@ -14,7 +14,7 @@
     "mqtt": "*"
   },
   "engines": {
-    "node": "*"
+    "node": "0.10.*"
   },
   "scripts": {
     "start": "node pi-alarm-server.js"
