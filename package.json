@@ -1,6 +1,6 @@
 {
   "name": "pi-alarm-server",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": {
     "name": "Rodrigo Basoalto",
     "url": "http://www.basoalto.cl"
@@ -10,7 +10,8 @@
     "url": "http://github.com/rbasoalto/pi-alarm-server"
   },
   "dependencies": {
-    "express": "3.x"
+    "express": "3.x",
+    "mqtt": "*"
   },
   "engines": {
     "node": "*"
